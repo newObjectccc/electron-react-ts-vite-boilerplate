@@ -10,25 +10,11 @@ git clone git@github.com:newObjectccc/electron-react-ts-vite-template.git
 
 ## 使用
 
-use npm:
-
-```bash
-npm install
-npm run start
-```
-
 use yarn:
 
 ```bash
 yarn
 yarn start
-```
-
-use pnpm:
-
-```bash
-pnpm install
-pnpm start
 ```
 
 ## 目录结构
