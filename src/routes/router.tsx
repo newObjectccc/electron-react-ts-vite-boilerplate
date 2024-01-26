@@ -1,5 +1,5 @@
 import { createHashRouter } from 'react-router-dom';
-import MainView from '../renderer/main-view/mainView';
+import MainView from '../renderer/main-view/main-view';
 
 const router = createHashRouter([
   {
